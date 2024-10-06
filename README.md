@@ -2,7 +2,7 @@
 
 ## Личная информация
 
-https://github.com/Maxim-Mozzherin/resume/blob/master/photo_2024-10-06_05-29-07.jpg?raw=true
+<img src="https://github.com/Maxim-Mozzherin/resume/blob/master/photo_2024-10-06_05-29-07.jpg?raw=true" alt="Фото" width="300"/>
 - **ФИО:** [Ваше полное имя]
 - **Дата рождения:** [Ваша дата рождения]
 - **Контактный телефон:** [Ваш телефон]
